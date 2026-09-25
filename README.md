@@ -1,46 +1,46 @@
 # About-me
 Hi there, I'm Nihat Bashirli
 English
-I am a Computer Engineering student specializing in Data Analytics and Software Development. I build data-driven solutions, backend architectures, and functional web tools using Python, C++, and SQL.
+I am a Computer Engineering student currently strengthening my fundamentals in Software Development and Problem Solving. I am actively learning C++ and Object-Oriented Programming (OOP) principles, with plans to expand into Data Analytics, Python, and SQL.
 
-🔭 Current Focus: Data Analytics, Data Pipeline Automation & Backend Systems.
+🔭 Current Focus: C++ Fundamentals, OOP Concepts, and Data Structures.
 
 🎓 Education: B.Sc. in Computer Engineering.
 
-🛠️ Tech Stack: Python, C++, SQL (PostgreSQL / SQLite), HTML5/CSS3, Bootstrap 5, Git/GitHub.
+🛠️ Technologies I Use / Learning: C++, HTML5/CSS3, Git/GitHub.
 
 💼 Featured Projects:
 
-Global Cargo Landing Page - Modern, responsive web app with interactive dark mode and rate calculator.
+Global Cargo Landing Page - Responsive web interface with interactive features.
 
-C++ OOP Scientific Calculator - CLI-based calculator leveraging object-oriented design patterns.
+C++ OOP Scientific Calculator - CLI calculator implementing C++ OOP concepts.
 
 Azərbaycan Dili
-Mən Məlumat Analitikası (Data Analytics) və Proqram Təminatı sahələri üzrə ixtisaslaşan Kompüter Mühəndisliyi tələbəsiyəm. Python, C++ və SQL texnologiyalarından istifadə edərək məlumat yönümlü həllər və veb alətlər hazırlayıram.
+Mən Kompüter Mühəndisliyi tələbəsiyəm. Hal-hazırda C++ dili və Obyektyönlü Proqramlaşdırma (OOP) prinsipləri üzrə təməl biliklərimi dərinləşdirirəm. Məqsədim Məlumat Analitikası, Python və SQL istiqamətində biliklərimi genişləndirməkdir.
 
-🔭 Hazırkı Diqqət Mərkəzi: Məlumat analitikası, məlumat bazaları (SQL) və backend arxitekturası.
+🔭 Hazırkı Diqqət Mərkəzi: C++ təməlləri, OOP konsepsiyaları və alqoritmlər.
 
 🎓 Təhsil: Kompüter Mühəndisliyi.
 
-🛠️ Texnoloji Bacarıqlar: Python, C++, SQL (PostgreSQL / SQLite), HTML5/CSS3, Bootstrap 5, Git/GitHub.
+🛠️ İstifadə Etdiyim / Öyrəndiyim Texnologiyalar: C++, HTML5/CSS3, Git/GitHub.
 
 💼 Seçilmiş Layihələr:
 
-Global Cargo Landing Page - İnteraktiv tünd rejim və kalkulyator funksiyalı müasir veb-sayt.
+Global Cargo Landing Page - İnteraktiv tünd rejimli müasir veb interfeysi.
 
-C++ OOP Scientific Calculator - Obyektyönlü proqramlaşdırma (OOP) prinsipi ilə hazırlanmış elmi kalkulyator.
+C++ OOP Scientific Calculator - C++ OOP mantığı ilə yazılmış elmi kalkulyator.
 
 Türkçe
-Veri Analitiği ve Yazılım Geliştirme alanlarında kendimi geliştiren bir Bilgisayar Mühendisliği öğrencisiyim. Python, C++ ve SQL kullanarak veri odaklı çözümler ve işlevsel web araçları geliştiriyorum.
+Bilgisayar Mühendisliği öğrencisiyim. Şu anda C++ dili ve Nesne Yönelimli Programlama (OOP) esasları üzerine temelimi güçlendiriyorum. İlerleyen süreçte Veri Analitiği, Python ve SQL alanlarında kendimi geliştirmeyi hedefliyorum.
 
-🔭 Odak Noktam: Veri Analitiği, Veritabanı Yönetimi ve Backend Geliştirme.
+🔭 Odak Noktam: C++ Temelleri, OOP Konseptleri ve Algoritmalar.
 
 🎓 Eğitim: Bilgisayar Mühendisliği.
 
-🛠️ Teknolojiler: Python, C++, SQL (PostgreSQL / SQLite), HTML5/CSS3, Bootstrap 5, Git/GitHub.
+🛠️ Kullandığım / Öğrendiğim Teknolojiler: C++, HTML5/CSS3, Git/GitHub.
 
 💼 Öne Çıkan Projeler:
 
-Global Cargo Landing Page - Etkileşimli karanlık mod ve hesaplayıcı içeren web uygulaması.
+Global Cargo Landing Page - Etkileşimli web arayüzü.
 
-C++ OOP Scientific Calculator - Nesne yönelimli mimariyle geliştirilmiş bilimsel hesap makinesi.
+C++ OOP Scientific Calculator - C++ OOP mimarisiyle geliştirilmiş hesap makinesi.
