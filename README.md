@@ -6,7 +6,7 @@ I am a Computer Engineering student currently transitioning and focusing on Data
 
 🎓 Education: B.Sc. in Computer Engineering (3rd Year).
 
-🛠️ Technologies & Tools: SQL Server, Power BI, Excel, Python (Learning), C++, Git/GitHub.
+🛠️ Technologies & Tools: SQL Server, Power BI, Excel, Python (Pandas, Numpy), C++, Git/GitHub.
 
 💼 Featured Projects:
 
